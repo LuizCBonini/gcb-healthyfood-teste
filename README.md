@@ -1,4 +1,5 @@
 ![Logo](https://github.com/LuizCBonini/gcb-healthyfood-teste/blob/main/src/assets/img/watermelon-icon.png?raw=true)
+
 # Teste GCB Front-End - Luiz Bonini
 
 >Primeiramente, gostaria de agradecer ao Grupo GCB pela oportunidade, e pelo teste que me gerou não só muita diversão em sua construção, como também aprendizados valiosos.
@@ -34,4 +35,23 @@
 • Swiper JS
 
 • Yup
-  
+
+• Hook Form Resolvers
+
+## Features
+
+- [x] Cadastro de usuário
+- [x] API para preencher os demais campos que compõe o endereço
+- [x] Validação dos campos
+- [x] Armazenamento dos dados do formulário no local storage
+- [x] 100% responsivo
+- [x] Menu Hamburguer
+
+## Assista aos vídeos
+
+[![Logo](https://github.com/LuizCBonini/gcb-healthyfood-teste/blob/main/src/assets/img/VideoFull.png?)](https://youtu.be/T70t3mDiwvg)
+[![Logo](https://github.com/LuizCBonini/gcb-healthyfood-teste/blob/main/src/assets/img/VideoMobile.png?)](https://youtu.be/7G9eqzmnOHI)
+
+#
+
+Obrigado pela visita e Let's code!
