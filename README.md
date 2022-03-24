@@ -1,4 +1,5 @@
 ![Logo](https://github.com/LuizCBonini/gcb-healthyfood-teste/blob/main/src/assets/img/watermelon-icon.png?raw=true)
+<img width="200px" height="250px" src="https://github.com/LuizCBonini/gcb-healthyfood-teste/blob/main/src/assets/img/QRcode.png">
 
 # Teste GCB Front-End - Luiz Bonini
 
